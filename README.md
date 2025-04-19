@@ -19,6 +19,10 @@
     npm run dev
 ```
 
+## 🔒 localhost
+
+-[localhost](http://localhost:5173)
+
 ## projets 📽️
 
 - [todo-server](https://github.com/TechnoFur1488/todo-ser.git)
@@ -26,6 +30,4 @@
 
 ## 🌐 Open in browser
 
-
-- [Client]([http://localhost:5173](https://todo-client-nikitas-projects-e30fe775.vercel.app))
-- [API](http://localhost:5000/api)
+- [Website](https://todo-client-nikitas-projects-e30fe775.vercel.app)
