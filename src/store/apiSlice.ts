@@ -18,7 +18,7 @@ interface Auth {
 export const apiSlice = createApi({
     reducerPath: "api",
     baseQuery: fetchBaseQuery({
-        baseUrl: "todo-ser-production.up.railway.app",
+        baseUrl: "https://todo-ser-production.up.railway.app",
         prepareHeaders: (headers) => {
             const token = localStorage.getItem("token");
             if (token) {
