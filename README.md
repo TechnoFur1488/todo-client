@@ -14,6 +14,7 @@
 
     cd todo-сlient
 
+    npm i
 ```
 
 ## 🌐 Open in browser
