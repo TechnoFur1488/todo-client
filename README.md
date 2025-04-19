@@ -10,7 +10,7 @@
 ## 🚀 Quick Start
 
 ```bash copy
-    git clone [https://github.com/TechnoFur1488/todo-server.git](https://github.com/TechnoFur1488/todo-client.git)
+    git clone https://github.com/TechnoFur1488/todo-client.git
 
     cd todo-сlient
 
