@@ -1,4 +1,4 @@
-﻿# todo-server
+﻿# todo-client
 
 ## 📋 Requirements
 
