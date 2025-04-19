@@ -15,7 +15,14 @@
     cd todo-сlient
 
     npm i
+
+    npm run dev
 ```
+
+## projets
+
+- [todo-server](https://github.com/TechnoFur1488/todo-ser.git)
+- [todo-fullstack](https://github.com/TechnoFur1488/todo-server.git)
 
 ## 🌐 Open in browser
 
